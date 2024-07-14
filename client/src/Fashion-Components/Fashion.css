@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.news-head img{
+width: 100%;
+height: fit-content;
+}
+
+.disc-icon{
+  font-size: 70px;
+}
+
+.off-ad{
+  z-index: 1;
+  position: absolute;
+  top: 10%;
+  font-size: 80px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  padding: 5% 30%;
+}
