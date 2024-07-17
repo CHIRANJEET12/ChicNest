@@ -64,3 +64,12 @@
   background-color: #a00000;
   cursor: default;
 }
+
+.Search{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #1d2351;
+  font-size: 20px;
+}
