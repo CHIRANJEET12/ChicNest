@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 export default function FashionContent() {
   return (
     <div className='news-head'>
-      <img src="/public/WhatsApp Image 2024-07-17 at 17.08.28_43f5c31d.jpg" alt="Fashion" />
+      <img src="/pexels-mihir-koral-s-838411-2519175.jpg" alt="Fashion" />
       <motion.h1 
         className='off-ad'
         initial={{opacity:0, translateX: -250}}
